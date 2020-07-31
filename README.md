@@ -3,3 +3,4 @@
 - MID: Middle-ware
 - PTL: Protocal
 - SEC: Security
+- SERVER: Server
