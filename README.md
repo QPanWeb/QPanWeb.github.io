@@ -4,3 +4,7 @@
 - PTL: Protocal
 - SEC: Security
 - SERVER: Server
+
+# Resources
+
+- [Awesome](https://github.com/sindresorhus/awesome)
