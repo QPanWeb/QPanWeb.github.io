@@ -1,8 +1,13 @@
 # QPanWeb.github.io
 
+- APP: Application
+- DB: Database
 - ENG: Engine
+- FM: Framework
+- JS: Javascript
 - MID: Middle-ware
 - PTL: Protocal
+- PWA: Progressive Web App
 - SEC: Security
 - SERVER: Server
 
