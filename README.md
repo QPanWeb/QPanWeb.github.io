@@ -2,6 +2,7 @@
 
 - API: Api
 - APP: Application
+- CMD: Conten management system
 - DB: Database
 - ENG: Engine
 - FM: Framework
