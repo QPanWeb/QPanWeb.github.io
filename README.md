@@ -11,6 +11,7 @@
 - PWA: Progressive Web App
 - SEC: Security
 - SERVER: Server
+- VRE: Virtual Research Environment
 
 # Resources
 
