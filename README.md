@@ -2,7 +2,6 @@
 
 - API: Api
 - APP: Application
-- CMS: Conten management system
 - DB: Database
 - ENG: Engine
 - FM: Framework
@@ -13,6 +12,9 @@
 - SEC: Security
 - SERVER: Server
 - VRE: Virtual Research Environment
+
+- CMS: Content Management System
+- DMS: Data Management System
 
 # Resources
 
