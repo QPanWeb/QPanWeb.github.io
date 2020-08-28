@@ -7,6 +7,7 @@
 - FM: Framework
 - JS: Javascript
 - MID: Middle-ware
+- ORM: Object-Relational Mapping
 - PTL: Protocal
 - PWA: Progressive Web App
 - SEC: Security
